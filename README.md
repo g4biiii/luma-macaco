@@ -1,2 +1,2 @@
-# luma-macaco
+# luma=macaco
 ok
